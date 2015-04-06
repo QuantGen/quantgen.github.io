@@ -1,0 +1,15 @@
+<div class="row team-member">
+    <div class="small-2 columns">
+        <img src="{{ page.picture }}" alt="{{ page.name }}" class="picture">
+    </div>
+    <div class="small-10 columns">
+        <h3>
+            {{ page.name }}
+            <small>{{ page.title }}</small>
+        </h3>
+        <p class="email">
+            <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+        </p>
+        {{ content }}
+    </div>
+</div>

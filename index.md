@@ -15,7 +15,6 @@ Projects
 People
 ------
 
-* Gustavo de los Campos ([Google Scholar](https://scholar.google.com/citations?user=fRjGwkwAAAAJ), [GitHub](https://github.com/gdlc))
-* Ana I. Vazquez ([GitHub](https://github.com/anainesvs))
-* Paulino Pérez ([Google Scholar](https://scholar.google.com/citations?user=6FoMrm4AAAAJ))
-* Alexander Grüneberg ([Google Scholar](https://scholar.google.com/citations?user=j14410QAAAAJ), [GitHub](https://github.com/agrueneberg))
+{% for member in site.team %}
+{{ member.output }}
+{% endfor %}

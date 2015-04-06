@@ -1,0 +1,17 @@
+.team-member {
+    margin-bottom: 15px !important;
+}
+
+.team-member .picture {
+    margin-top: 6px;
+    border-radius: 10px;
+}
+
+.team-member .email {
+    margin-top: -10px;
+    margin-bottom: 0;
+}
+
+.team-member ul {
+    margin-bottom: 0;
+}
