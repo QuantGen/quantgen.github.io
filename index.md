@@ -8,7 +8,7 @@ QuantGen
 Projects
 --------
 
-* [dMatrix](https://github.com/gdlc/dMatrix): memory mapped matrices for R
+* [BGData](https://github.com/QuantGen/BGData): memory mapped matrices for R
 * [pedigreeR](https://github.com/Rpedigree/pedigreeR): R functions related to pedigrees
 
 
