@@ -11,8 +11,27 @@ Our group is interested in the analysis and prediction of complex traits and dis
 Projects
 --------
 
-* [BGData](https://github.com/QuantGen/BGData): memory mapped matrices for R
-* [pedigreeR](https://github.com/Rpedigree/pedigreeR): R functions related to pedigrees
+### BGLR
+
+The Bayesian Generalized Linear Regression R package implements a variety of shrinkage and variable selection methods. The package can be used with whole-genome data (e.g., SNPs, gene expression or other omics), pedigrees and non-genetic covariates, including high-dimensional environmental data.
+
+- [Article](http://www.genetics.org/content/198/2/483.full.pdf+html)
+- [Download](http://cran.r-project.org/web/packages/BGLR/index.html)
+
+
+### BGData
+
+Memory mapped matrices for R.
+
+- [Documentation](https://github.com/QuantGen/BGData/wiki)
+- [Source Code](https://github.com/QuantGen/BGData/wiki)
+
+
+### pedigreeR
+
+R functions related to pedigrees
+
+- [Source Code](https://github.com/Rpedigree/pedigreeR)
 
 
 People
