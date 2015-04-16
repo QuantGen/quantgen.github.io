@@ -16,22 +16,18 @@ Projects
 The Bayesian Generalized Linear Regression R package implements a variety of shrinkage and variable selection methods. The package can be used with whole-genome data (e.g., SNPs, gene expression or other omics), pedigrees and non-genetic covariates, including high-dimensional environmental data.
 
 
-
-
 ### BGData
 
-Memory mapped matrices for R.
-
-- [Documentation](https://github.com/QuantGen/BGData/wiki)
-- [Source Code](https://github.com/QuantGen/BGData/wiki)
+Memory mapped matrices for R.  [documentation](https://github.com/QuantGen/BGData/wiki)   [source](https://github.com/QuantGen/BGData/wiki)
 
 
 ### pedigreeR
 
-R functions related to pedigrees
+R functions related to pedigrees  [source](https://github.com/Rpedigree/pedigreeR)
 
-- [Source Code](https://github.com/Rpedigree/pedigreeR)
+### MTM
 
+Implements a Bayesian Multi-Trait Gaussian models with user defined- (co)variance structures.    [documentation](https://www.dropbox.com/s/5tlr8hotsvcyam4/MTM%20documentation%20V2.docx?dl=0) [source](https://www.dropbox.com/s/neyva73riidcfh5/MTM.R?dl=0)
 
 People
 ------
