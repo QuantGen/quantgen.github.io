@@ -10,15 +10,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 Projects
 ==================
 
-** Genomic Analysis and Prediction of Complex Traits**. Goal: to develop methods and software for analysis and prediction of complex traits using high-dimensional genomic data (e.g., SNPs, Gentoyping-by-sequencing, and other types of sequence data). Our research in this area has focused on the use of shrinkage and variable selection parameteric model as well as in the use of some semi-parameteric methods (e.g., RKHS). 
+**Genomic Analysis and Prediction of Complex Traits**. Goal: to develop methods and software for analysis and prediction of complex traits using high-dimensional genomic data (e.g., SNPs, Gentoyping-by-sequencing, and other types of sequence data). Our research in this area has focused on the use of shrinkage and variable selection parameteric model as well as in the use of some semi-parameteric methods (e.g., RKHS). 
 
-** Genomic x Environment** Goal: to develop methods for integrating in a unified framework high-dimensional genomic and environmental data. 
+**Genomic x Environment** Goal: to develop methods for integrating in a unified framework high-dimensional genomic and environmental data. 
 
-** Integration of data from multiple omic layers **
+**Integration of data from multiple omic layers **
 
-** Software development for analysis of big omic data **
+**Software development for analysis of big omic data **
 
-** Genomic Analysis of Obesity and Response to Excercise (TIGER) ** 
+**Genomic Analysis of Obesity and Response to Excercise (TIGER) ** 
 
 
 Software
