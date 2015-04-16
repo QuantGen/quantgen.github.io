@@ -10,6 +10,10 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ## Projects
 
+  ### - Analysis and prediction of complex traits using high-dimensional genomic information
+  ### - Integration of data from multiple omic layers
+  ### - Software development for analysis of big omic data
+
 ## Software
 
 ### BGLR   
