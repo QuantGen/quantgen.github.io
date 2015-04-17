@@ -11,7 +11,6 @@ Our group is interested in the analysis and prediction of complex traits and dis
 Projects
 ==================
 
-
 **Genomic Analysis and Prediction of Complex Traits**. Development and evaluation of methods and software for analysis and prediction of complex traits using high-dimensional genomic data (e.g., SNPs, Gentoyping-by-sequencing, and other types of sequence data). Our research in this area has focused on the use of shrinkage and variable selection parameteric model as well as in the use of some semi-parameteric methods (e.g., RKHS). 
 
 **Genomic x Environment** Development methods for integrating in a unified framework high-dimensional genomic and environmental data. We have develop methods that can model interactions between high dimensional marker panels and high-dimensional evironmental covariates. These methods were originally developed and tested with data from wheat trails (). We are currently extending some of these mehthos for analysis of complex human traits and diseases.
