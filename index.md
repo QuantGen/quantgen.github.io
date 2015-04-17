@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-![msu logo](https://www.dropbox.com/s/83pq9691d6snz4f/MSUlogo.gif?dl=0)
 
 QuantGen Group 
 ==================
