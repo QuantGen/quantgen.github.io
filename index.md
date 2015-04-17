@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+![Conceptual Diagram](https://docs.google.com/drawings/d/1m2bV3-woWrO9F9_RXxw30FlzUORXzcnaIPJUlxc-MMk/pub?w=739&h=559)
 
 QuantGen Group 
 ==================
+
 
 Our group is interested in the analysis and prediction of complex traits and diseases using genetic (pedigrees, genome and other omics) and environmental information. Our research involves methods, software development, and applications in human health, plant and animal breeding. Most of us are affiliated with the [Epidemiology & Biostatistics, Michigan State University](http://www.epi.msu.edu/).
 
