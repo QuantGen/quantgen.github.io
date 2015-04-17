@@ -8,6 +8,7 @@ QuantGen Group
 Our group is interested in the analysis and prediction of complex traits and diseases using genetic (pedigrees, genome and other omics) and environmental information. Our research involves methods, software development, and applications in human health, plant and animal breeding.
 
 [[Epidemiology & Biostatistics, MSU]](http://www.epi.msu.edu/) [[Biostatistics UAB]](http://www.soph.uab.edu/ssg/) [[COLPOS]](http://www.colpos.mx/wb/index.php/ingles#.VTB8BGZrXOo)
+
 Projects
 ==================
 
