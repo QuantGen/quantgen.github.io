@@ -16,9 +16,9 @@ Projects
 
 **Integration of data from multiple omic layers**. Development of models and software for integrating high dimensional multi-layer omic data. Our focus is on methods that can integrate whole-omic profiles and can model interactions between two or more high dimensional predictor sets (e.g., genome-by-methylome interactions). We are currently working on using these methods for prediction of breast cancer outcomes and in plant omic applications.
 
-**Software development for analysis of big omic data**.
+**Software development for analysis of big omic data**. We have developed several R-packages for genetic analysis using pedigrees, genomes and other omics (see software below for further details).
 
-**Genomic Analysis of Obesity and Response to Excercise**.
+**Genomic Analysis of Obesity and Response to Excercise**. We maintain an active collaboration with researchers from the [TIGER](http://tigerstudy.org/) study...
 
 
 Software
@@ -26,9 +26,10 @@ Software
 
 **BGLR**.The Bayesian Generalized Linear Regression R package implements a variety of shrinkage and variable selection methods. The package can be used with whole-genome data (e.g., SNPs, gene expression or other omics), pedigrees and non-genetic covariates, including high-dimensional environmental data. [[article]](http://www.genetics.org/content/198/2/483.full.pdf+html) [[download]](http://cran.r-project.org/web/packages/BGLR/index.html)
 
-**BGData**. Memory mapped matrices for R. [documentation](https://github.com/QuantGen/BGData/wiki) / [source](https://github.com/QuantGen/BGData/wiki)
+**BGData**. Memory mapped matrices for R. [[documentation]](https://github.com/QuantGen/BGData/wiki)  [[source]](https://github.com/QuantGen/BGData/wiki)
 
-**pedigreeR**. R functions related to pedigrees. [source](https://github.com/Rpedigree/pedigreeR)
+**pedigreemm**. An R package for analysis of complex traits and diseases using generalided linear mixed models using likelihood methods. [[article]](http://www.ncbi.nlm.nih.gov/pubmed/19820058) [[documentation]](http://cran.r-project.org/web/packages/pedigreemm/pedigreemm.pdf)  [[download]](http://cran.r-project.org/web/packages/pedigreemm/index.html)
+**pedigreeR**. R functions related to pedigrees. [[source]](https://github.com/Rpedigree/pedigreeR)
 
 **MTM**.Implements a Bayesian Multi-Trait Gaussian models with user defined-(co)variance structures. [documentation](https://www.dropbox.com/s/5tlr8hotsvcyam4/MTM%20documentation%20V2.docx?dl=0) / [source](https://www.dropbox.com/s/neyva73riidcfh5/MTM.R?dl=0)
 
