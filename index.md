@@ -29,6 +29,7 @@ Software
 **BGData**. Memory mapped matrices for R. [[documentation]](https://github.com/QuantGen/BGData/wiki)  [[source]](https://github.com/QuantGen/BGData/wiki)
 
 **pedigreemm**. An R package for analysis of complex traits and diseases using generalided linear mixed models using likelihood methods. [[article]](http://www.ncbi.nlm.nih.gov/pubmed/19820058) [[documentation]](http://cran.r-project.org/web/packages/pedigreemm/pedigreemm.pdf)  [[download]](http://cran.r-project.org/web/packages/pedigreemm/index.html)
+
 **pedigreeR**. R functions related to pedigrees. [[source]](https://github.com/Rpedigree/pedigreeR)
 
 **MTM**.Implements a Bayesian Multi-Trait Gaussian models with user defined-(co)variance structures. [documentation](https://www.dropbox.com/s/5tlr8hotsvcyam4/MTM%20documentation%20V2.docx?dl=0) / [source](https://www.dropbox.com/s/neyva73riidcfh5/MTM.R?dl=0)
