@@ -2,12 +2,14 @@
 layout: default
 ---
 
-QuantGen Group  
+QuantGen Group
 ==================
+
+   ![alt text](https://www.dropbox.com/s/83pq9691d6snz4f/MSUlogo.gif?dl=0 "Logo Title Text 1")
 
 Our group is interested in the analysis and prediction of complex traits and diseases using genetic (pedigrees, genome and other omics) and environmental information. Our research involves methods, software development, and applications in human health, plant and animal breeding.
 
-[[Epidemiology & Biostatistics, MSU]](http://www.epi.msu.edu/) [[Biostatistics UAB]](http://www.soph.uab.edu/ssg/) [[COLPOS]](http://www.colpos.mx/wb/index.php/ingles#.VTB8BGZrXOo)
+[[Epidemiology & Biostatistics, Michigan State University]](http://www.epi.msu.edu/) 
 
 Projects
 ==================
