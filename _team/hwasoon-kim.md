@@ -7,3 +7,4 @@ email: hskim28@uab.edu
 ---
 
 - Areas of Interest: Biostatistics, Clinical Trials
+- Links: [Website](http://www.hwasoon.kim/), [GitHub](https://github.com/dulcisflos)
