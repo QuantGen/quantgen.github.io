@@ -1,3 +1,40 @@
+body {
+    text-align: justify;
+}
+
+@media only screen {
+
+    #title {
+        text-align: center;
+    }
+
+    #msu-logo {
+        text-align: center;
+    }
+
+}
+
+@media only screen and (min-width: 40.063em) {
+
+    #title {
+        text-align: right;
+    }
+
+    #msu-logo {
+        text-align: left;
+    }
+
+    #msu-logo img {
+        margin-top: 15px;
+    }
+
+}
+
+header {
+    margin-bottom: 15px !important;
+}
+
+
 .team-member {
     margin-bottom: 15px !important;
 }
