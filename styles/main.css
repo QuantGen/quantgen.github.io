@@ -30,10 +30,14 @@ body {
 
 }
 
-header {
-    margin-bottom: 15px !important;
+.sub-nav {
+    display: table;
+    margin: 0 auto;
 }
 
+.sub-nav li {
+    display: table-cell;
+}
 
 .team-member {
     margin-bottom: 15px !important;

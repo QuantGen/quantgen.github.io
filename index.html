@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% capture introduction %}{% include introduction.md %}{% endcapture %}
+{{ introduction | markdownify }}
+
+<a name="projects"></a>
+<h2 data-magellan-destination="projects">Projects</h2>
+{% capture projects %}{% include projects.md %}{% endcapture %}
+{{ projects | markdownify }}
+
+<a name="software"></a>
+<h2 data-magellan-destination="software">Software</h2>
+{% capture software %}{% include software.md %}{% endcapture %}
+{{ software | markdownify }}
+
+<a name="people"></a>
+<h2 data-magellan-destination="people">People</h2>
+{% for member in site.team %}
+{{ member.output }}
+{% endfor %}

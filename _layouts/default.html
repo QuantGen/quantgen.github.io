@@ -17,8 +17,21 @@
                 <img src="/images/michigan-state-university.png" alt="Michigan State University">
             </div>
         </header>
-        <div class="row">
+        <nav data-magellan-expedition="fixed">
+            <ul class="sub-nav">
+                <li data-magellan-arrival="projects"><a href="#projects">Projects</a></li>
+                <li data-magellan-arrival="software"><a href="#software">Software</a></li>
+                <li data-magellan-arrival="people"><a href="#people">People</a></li>
+            </ul>
+        </nav>
+        <section class="row">
             {{ content }}
-        </div>
+        </section>
+        <script src="/vendor/jquery/jquery.js"></script>
+        <script src="/vendor/foundation/js/foundation.js"></script>
+        <script src="/vendor/foundation/js/foundation.magellan.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
     </body>
 </html>
