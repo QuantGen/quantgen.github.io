@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Conceptual Diagram](https://docs.google.com/drawings/d/1m2bV3-woWrO9F9_RXxw30FlzUORXzcnaIPJUlxc-MMk/pub?w=739&h=559)
+![Conceptual Diagram](https://www.dropbox.com/s/83pq9691d6snz4f/MSUlogo.gif?dl=0)
 
 QuantGen Group 
 ==================
