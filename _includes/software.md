@@ -6,4 +6,4 @@
 
 **pedigreeR**. R functions related to pedigrees. [[source]](https://github.com/Rpedigree/pedigreeR)
 
-**MTM**. Implements a Bayesian Multi-Trait Gaussian models with user defined-(co)variance structures. [[documentation]](https://www.dropbox.com/s/5tlr8hotsvcyam4/MTM%20documentation%20V2.docx?dl=0) [[source]](https://www.dropbox.com/s/neyva73riidcfh5/MTM.R?dl=0)
+**MTM**. Implements a Bayesian Multi-Trait Gaussian models with user defined-(co)variance structures. [[documentation]](https://github.com/QuantGen/MTM/wiki) [[source]](https://github.com/QuantGen/MTM/wiki)
