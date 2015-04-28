@@ -7,5 +7,5 @@ email: alexander.grueneberg@googlemail.com
 ---
 
 - Areas of Interest: Software Development
-- Links: [Google Scholar](https://scholar.google.com/citations?user=j14410QAAAAJ), [GitHub](https://github.com/agrueneberg)
+- Links: [Website](https://agrueneberg.info), [GitHub](https://github.com/agrueneberg), [Google Scholar](https://scholar.google.com/citations?user=j14410QAAAAJ)
 - Software: [BGData](https://github.com/QuantGen/BGData)
