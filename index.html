@@ -19,6 +19,22 @@ layout: default
 
 <a name="people"></a>
 <h2 data-magellan-destination="people">People</h2>
-{% for member in site.team %}
-{{ member.output }}
+{% assign groups = site.team | group_by: "year" | sort: "name" | reverse %}
+{% for group in groups %}
+  {% if group.name == "" %}
+    {% for member in group.items %}
+      {% if member.year == null %}
+        {{ member.output }}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+<h3>Visitors</h3>
+{% for group in groups %}
+  {% if group.name != "" %}
+    <h4>{{ group.name }}</h4>
+    {% for member in group.items %}
+      {{ member.output }}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
