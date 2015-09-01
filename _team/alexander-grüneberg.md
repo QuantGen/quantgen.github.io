@@ -3,7 +3,7 @@ layout: team-member
 name: Alexander Grüneberg
 title: Programmer
 picture: /images/team/alexander-grüneberg.jpg
-email: alexander.grueneberg@googlemail.com
+email: gruenebe@msu.edu
 ---
 
 - Areas of Interest: Software Development
