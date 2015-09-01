@@ -6,4 +6,4 @@ picture: /images/team/yeni-liliana-bernal-rubio.jpg
 email: ylbernal@msu.edu
 ---
 
-- Areas of Interest: Statistical genetics, genomic evaluation complex traits, software development
+- Areas of Interest: Statistical Genetics, Genomic Evaluation Complex Traits, Software Development
