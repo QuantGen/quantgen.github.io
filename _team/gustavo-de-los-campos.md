@@ -1,7 +1,7 @@
 ---
 layout: team-member
 name: Gustavo de los Campos
-title: Associate Prof.
+title: Associate Professor
 picture: /images/team/gustavo-de-los-campos.jpg
 email: gdeloscampos@gmail.com
 ---
