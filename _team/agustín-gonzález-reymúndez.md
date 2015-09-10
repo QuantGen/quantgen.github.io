@@ -3,7 +3,6 @@ layout: team-member
 name: Agustín González Reymúndez
 picture: /images/team/agustín-gonzález-reymúndez.jpg
 email: agugonrey@gmail.com
-year: 2014
 ---
 
 - Affiliation: Statistical Department, Agronomy School, Universidad de la Republica, Montevideo Uruguay
