@@ -6,4 +6,4 @@
 
 **Software development for analysis of big omic data**. We have developed several R-packages for genetic analysis using pedigrees, genomes and other omics (see software below for further details).
 
-**Genomic Analysis of Obesity and Response to Excercise**. We maintain an active collaboration with researchers from the [TIGER](http://tigerstudy.org/) study...
+**Genomic Analysis of Obesity and Response to Excercise**. We maintain an active collaboration with researchers from the [TIGER (Training Interventions and Genetics of Exercise Response)](http://tigerstudy.org/) study, developing and implementing methods for the identification of genetic factors influencing Body Composition and Response to Exercise Intervention.
