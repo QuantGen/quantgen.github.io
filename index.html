@@ -17,6 +17,11 @@ layout: default
 {% capture software %}{% include software.md %}{% endcapture %}
 {{ software | markdownify }}
 
+<a name="activities"></a>
+<h2 data-magellan-destination="activities">Activities</h2>
+{% capture activities %}{% include activities.md %}{% endcapture %}
+{{ activities | markdownify }}
+
 <a name="people"></a>
 <h2 data-magellan-destination="people">People</h2>
 {% assign groups = site.team | group_by: "year" | sort: "name" | reverse %}
