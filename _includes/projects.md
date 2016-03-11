@@ -2,7 +2,7 @@
 
 **Genomics x Environment**. Development of methods for integrating high-dimensional genomic and environmental data in a unified framework. We have developed methods that can model interactions between high-dimensional marker panels and high-dimensional environmental covariates. These methods were originally developed and tested with data from wheat trails. We are currently extending some of these methods for analysis of complex human traits and diseases.
 
-**Integration of Data from Multiple Omics Layers*. Development of models and software for integrating high-dimensional multi-layer omics data. Our focus is on methods that can integrate whole-omics profiles and can model interactions between two or more high-dimensional predictor sets (e.g., genome-by-methylome interactions). We are currently working on using these methods for prediction of breast cancer outcomes and in plant omics applications.
+**Integration of Data from Multiple Omics Layers**. Development of models and software for integrating high-dimensional multi-layer omics data. Our focus is on methods that can integrate whole-omics profiles and can model interactions between two or more high-dimensional predictor sets (e.g., genome-by-methylome interactions). We are currently working on using these methods for prediction of breast cancer outcomes and in plant omics applications.
 
 **Software development for analysis of big omics data**. We have developed several R packages for genetic analysis using pedigrees, genomes and other omics (see software below for further details).
 
