@@ -7,5 +7,5 @@ email: fmaguate@gmail.com
 year: 2016
 ---
 
-- Affiliation: Facultad de Ciencias Agropecuarias, Universidad Nacional de Córdoba, Argentina
+- Affiliation: Facultad de Ciencias Agropecuarias, Universidad Nacional de Córdoba (Argentina)
 - Areas of Interest: Biostatistics, Statistical Genetics, Plant Breeding, Software Development

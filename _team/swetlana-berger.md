@@ -7,5 +7,5 @@ email: swmiller@gwdg.de
 year: 2014
 ---
 
-- Affiliation: Georg-August-Universität Göttingen
+- Affiliation: Georg-August-Universität Göttingen (Germany)
 - Areas of Interest: Scale effects in genomic modelling and prediction
