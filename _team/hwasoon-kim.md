@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Hwasoon Kim
-title: Postdoc
+job_title: Postdoc
 picture: /images/team/hwasoon-kim.jpg
 email: kimhwaso@msu.edu
 ---

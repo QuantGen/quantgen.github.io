@@ -2,7 +2,7 @@
 layout: team-member
 member_type: past
 name: Lian Lian
-title: Postdoc
+job_title: Postdoc
 picture: /images/team/lian-lian.jpg
 email: lianl0501@gmail.com
 ---

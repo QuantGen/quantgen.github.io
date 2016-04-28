@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Mengying Sun
-title: Research Assistant
+job_title: Research Assistant
 picture: /images/team/mengying-sun.jpg
 email: msun@epi.msu.edu
 ---

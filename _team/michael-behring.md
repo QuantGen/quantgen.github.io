@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Michael P. Behring
-title: PhD Candidate
+job_title: PhD Candidate
 picture: /images/team/michael-behring.jpg
 email: behringm@uab.edu
 ---

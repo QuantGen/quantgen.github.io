@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Paulino Pérez
-title: Associate Professor
+job_title: Associate Professor
 picture: /images/team/paulino-pérez.jpg
 email: perpdgo@gmail.com
 ---

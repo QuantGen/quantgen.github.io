@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Yeni Liliana Bernal Rubio
-title: Postdoc
+job_title: Postdoc
 picture: /images/team/yeni-liliana-bernal-rubio.jpg
 email: ylbernal@msu.edu
 ---

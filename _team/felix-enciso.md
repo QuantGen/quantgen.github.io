@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Felix Enciso
-title: PhD Candidate
+job_title: PhD Candidate
 picture: /images/team/felix-enciso.jpg
 email: encisofe@msu.edu
 ---
