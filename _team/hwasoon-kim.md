@@ -1,7 +1,7 @@
 ---
 layout: team-member
 name: Hwasoon Kim
-title: PhD Candidate
+title: Postdoc
 picture: /images/team/hwasoon-kim.jpg
 email: kimhwaso@msu.edu
 ---
