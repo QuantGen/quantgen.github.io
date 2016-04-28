@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: current
 name: Mengying Sun
 title: Research Assistant
 picture: /images/team/mengying-sun.jpg

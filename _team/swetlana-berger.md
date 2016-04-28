@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: visitor
 name: Swetlana Berger
 picture: /images/team/swetlana-berger.jpg
 email: swmiller@gwdg.de

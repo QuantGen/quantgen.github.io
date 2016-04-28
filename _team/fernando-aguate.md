@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: visitor
 name: Fernando Aguate
 picture: /images/team/fernando-aguate.png
 email: fmaguate@gmail.com

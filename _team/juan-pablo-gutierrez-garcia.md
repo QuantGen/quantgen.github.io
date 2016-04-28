@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: visitor
 name: Juan Pablo Gutierrez Garcia
 picture: /images/team/juan-pablo-gutierrez-garcia.jpg
 email: gutgar@ucm.es

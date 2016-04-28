@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: current
 name: Paulino Pérez
 title: Associate Professor
 picture: /images/team/paulino-pérez.jpg

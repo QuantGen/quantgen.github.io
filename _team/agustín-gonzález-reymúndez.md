@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: current
 name: Agustín González Reymúndez
 picture: /images/team/agustín-gonzález-reymúndez.jpg
 email: agugonrey@gmail.com

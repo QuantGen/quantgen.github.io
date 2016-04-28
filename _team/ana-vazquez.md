@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: current
 name: Ana I. Vazquez
 title: Assistant Professor
 picture: /images/team/ana-vazquez.jpg

@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: current
 name: Alexander Grüneberg
 title: Programmer
 picture: /images/team/alexander-grüneberg.jpg

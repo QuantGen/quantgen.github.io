@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: current
 name: Hwasoon Kim
 title: Postdoc
 picture: /images/team/hwasoon-kim.jpg

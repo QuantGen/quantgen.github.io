@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: visitor
 name: Hugo O. Toledo Alvarado
 picture: /images/team/hugo-toledo-alvarado.jpg
 email: h.toledo.a@gmail.com

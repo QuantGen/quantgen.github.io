@@ -24,22 +24,15 @@ layout: default
 
 <a name="people"></a>
 <h2 data-magellan-destination="people">People</h2>
-{% assign groups = site.team | group_by: "year" | sort: "name" | reverse %}
-{% for group in groups %}
-  {% if group.name == "" %}
-    {% for member in group.items %}
-      {% if member.year == null %}
-        {{ member.output }}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
+{% assign by_member_type = site.team | group_by: "member_type" | sort: "name" %}
+{% for member in by_member_type[0].items %}
+  {{ member.output }}
 {% endfor %}
 <h3>Visitors</h3>
-{% for group in groups %}
-  {% if group.name != "" %}
-    <h4>{{ group.name }}</h4>
-    {% for member in group.items %}
-      {{ member.output }}
-    {% endfor %}
-  {% endif %}
+{% assign by_years = by_member_type[1].items | group_by: "year" | sort: "name" | reverse %}
+{% for year in by_years %}
+  <h4>{{ year.name }}</h4>
+  {% for member in year.items %}
+    {{ member.output }}
+  {% endfor %}
 {% endfor %}

@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: current
 name: Marco López-Cruz
 title: PhD Student
 picture: /images/team/marco-lópez-cruz.jpg

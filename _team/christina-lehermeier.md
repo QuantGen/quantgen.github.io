@@ -1,5 +1,6 @@
 ---
 layout: team-member
+member_type: visitor
 name: Christina Lehermeier
 picture: /images/team/christina-lehermeier.jpg
 email: christina.lehermeier@tum.de
