@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Lian Lian
 title: Postdoc
 picture: /images/team/lian-lian.jpg

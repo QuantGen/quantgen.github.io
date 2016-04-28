@@ -28,8 +28,12 @@ layout: default
 {% for member in by_member_type[0].items %}
   {{ member.output }}
 {% endfor %}
+<h3>Past</h3>
+{% for member in by_member_type[1].items %}
+  {{ member.output }}
+{% endfor %}
 <h3>Visitors</h3>
-{% assign by_years = by_member_type[1].items | group_by: "year" | sort: "name" | reverse %}
+{% assign by_years = by_member_type[2].items | group_by: "year" | sort: "name" | reverse %}
 {% for year in by_years %}
   <h4>{{ year.name }}</h4>
   {% for member in year.items %}
