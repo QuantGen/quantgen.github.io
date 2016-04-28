@@ -1,9 +1,9 @@
 ---
 layout: team-member
 member_type: current
-name: Alexander Grüneberg
+name: Alexander Grueneberg
 title: Programmer
-picture: /images/team/alexander-grüneberg.jpg
+picture: /images/team/alexander-grueneberg.jpg
 email: gruenebe@msu.edu
 ---
 
