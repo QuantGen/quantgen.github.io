@@ -3,7 +3,7 @@ layout: team-member
 name: Ana I. Vazquez
 title: Assistant Professor
 picture: /images/team/ana-vazquez.jpg
-email: avazquez@epi.msu.edu
+email: avazquez@msu.edu
 ---
 
 - Areas of Interest: Statistical Genetics, Animal Breeding, Software Development
