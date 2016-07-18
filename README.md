@@ -18,9 +18,11 @@ Click on one of the following links to change the page directly on GitHub:
         ```
         ---
         layout: team-member
+        member_type: current, past, or visitor
         name: FIRSTNAME LASTNAME
         title: TITLE
-        picture: 
+        picture: IMAGE_PATH
         email: EMAIL
+        year: YEAR (if member_type is one of past or visitor)
         ---
         ```
