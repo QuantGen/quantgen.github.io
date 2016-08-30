@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Hank Wu
 job_title: Master Student
 picture: /images/team/hank-wu.jpg
