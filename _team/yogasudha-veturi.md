@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Yogasudha Veturi
 job_title: PhD Candidate
 picture: /images/team/yogasudha-veturi.jpg
