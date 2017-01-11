@@ -2,6 +2,7 @@
 layout: team-member
 member_type: current
 name: Agustín González Reymúndez
+job_title: PhD Student
 picture: /images/team/agustín-gonzález-reymúndez.jpg
 email: agugonrey@gmail.com
 ---
