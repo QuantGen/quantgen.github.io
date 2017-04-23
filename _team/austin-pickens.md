@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: C. Austin Pickens
 job_title: Doctoral Candidate
 picture: /images/team/austin-pickens.jpg
