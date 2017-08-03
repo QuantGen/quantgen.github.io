@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Yeni Liliana Bernal Rubio
 job_title: Postdoc
 picture: /images/team/yeni-liliana-bernal-rubio.jpg
