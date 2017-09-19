@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Deniz Akdemir
 job_title: Postdoc
 picture: /images/team/deniz-akdemir.jpg
