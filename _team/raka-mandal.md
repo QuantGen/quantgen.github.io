@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Raka Mandal
 job_title: PhD Student
 picture: /images/team/raka-mandal.jpg
