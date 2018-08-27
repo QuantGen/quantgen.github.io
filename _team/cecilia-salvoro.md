@@ -1,7 +1,7 @@
 ---
 layout: team-member
 member_type: visitor
-Name: Cecilia Salvoro
+name: Cecilia Salvoro
 picture: /images/team/cecilia-salvoro.jpg
 email: cecilia.salvoro@gmail.com
 year: 2018
