@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Mengying Sun
 job_title: Research Assistant
 picture: /images/team/mengying-sun.jpg
