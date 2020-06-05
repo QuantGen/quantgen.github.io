@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Felix Enciso
 job_title: PhD Candidate
 picture: /images/team/felix-enciso.jpg
