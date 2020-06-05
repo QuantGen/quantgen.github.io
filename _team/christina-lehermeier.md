@@ -9,4 +9,4 @@ year: 2014
 
 - Affiliation: Plant Breeding, Technische Universität München (Germany)
 - Areas of Interest: Statistics, Quantitative Genetics, Plant Breeding
-- Links: [Google Scholar](http://scholar.google.de/citations?user=YhpaEaYAAAAJ&hl=de&oi=ao), [TUM Plant Breeding](http://www.plantbreeding.wzw.tum.de/index.php?id=66&L=1)
+- Links: [Google Scholar](https://scholar.google.de/citations?user=YhpaEaYAAAAJ), [TUM Plant Breeding](https://www.plantbreeding.wzw.tum.de/en/startseite/)

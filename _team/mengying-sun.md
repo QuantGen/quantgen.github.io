@@ -8,4 +8,4 @@ email: msun@epi.msu.edu
 ---
 
 - Areas of Interest: Statistical Modeling
-- Links: [Website](http://www.mengying.org), [GitHub](https://github.com/mengyings)
+- Links: [GitHub](https://github.com/mengyings)
