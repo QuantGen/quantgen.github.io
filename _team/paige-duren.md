@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Paige Duren
 picture: /images/team/paige-duren.jpg
 email: durenpai@msu.edu
