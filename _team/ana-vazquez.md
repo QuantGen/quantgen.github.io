@@ -9,4 +9,4 @@ email: avazquez@msu.edu
 
 - Areas of Interest: Statistical Genetics, Animal Breeding, Software Development
 - Links: [Website](http://www.epi.msu.edu/faculty/vazquez/), [GitHub](https://github.com/anainesvs)
-- Software: [pedigreemm](http://cran.r-project.org/web/packages/pedigreemm/index.html), [Rpedigree](https://github.com/Rpedigree)
+- Software: [pedigreemm](https://cran.r-project.org/package=pedigreemm), [Rpedigree](https://github.com/Rpedigree)
