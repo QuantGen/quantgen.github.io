@@ -26,3 +26,7 @@ Click on one of the following links to change the page directly on GitHub:
         year: YEAR (if member_type is one of past or visitor)
         ---
         ```
+
+This website is built with [Jekyll](https://jekyllrb.com), which is supported
+natively by [GitHub
+Pages](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
