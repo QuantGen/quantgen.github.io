@@ -2,41 +2,46 @@
 layout: default
 ---
 
-<a name="about"></a>
-<h2 data-magellan-destination="about">About</h2>
-{% capture introduction %}{% include introduction.md %}{% endcapture %}
-{{ introduction | markdownify }}
+<section id="about">
+    <h2>About</h2>
+    {% capture introduction %}{% include introduction.md %}{% endcapture %}
+    {{ introduction | markdownify }}
+</section>
 
-<a name="projects"></a>
-<h2 data-magellan-destination="projects">Projects</h2>
-{% capture projects %}{% include projects.md %}{% endcapture %}
-{{ projects | markdownify }}
+<section id="projects">
+    <h2>Projects</h2>
+    {% capture projects %}{% include projects.md %}{% endcapture %}
+    {{ projects | markdownify }}
+</section>
 
-<a name="software"></a>
-<h2 data-magellan-destination="software">Software</h2>
-{% capture software %}{% include software.md %}{% endcapture %}
-{{ software | markdownify }}
+<section id="software">
+    <h2>Software</h2>
+    {% capture software %}{% include software.md %}{% endcapture %}
+    {{ software | markdownify }}
+</section>
 
-<a name="activities"></a>
-<h2 data-magellan-destination="activities">Activities</h2>
-{% capture activities %}{% include activities.md %}{% endcapture %}
-{{ activities | markdownify }}
+<section id="activities">
+    <h2>Activities</h2>
+    {% capture activities %}{% include activities.md %}{% endcapture %}
+    {{ activities | markdownify }}
+</section>
 
-<a name="people"></a>
-<h2 data-magellan-destination="people">People</h2>
-{% assign by_member_type = site.team | group_by: "member_type" | sort: "name" %}
-{% for member in by_member_type[0].items %}
-  {{ member.output }}
-{% endfor %}
-<h3>Past Members</h3>
-{% for member in by_member_type[1].items %}
-  {{ member.output }}
-{% endfor %}
-<h3>Visitors</h3>
-{% assign by_years = by_member_type[2].items | group_by: "year" | sort: "name" | reverse %}
-{% for year in by_years %}
-  <h4>{{ year.name }}</h4>
-  {% for member in year.items %}
-    {{ member.output }}
-  {% endfor %}
-{% endfor %}
+<section id="people">
+    <h2>People</h2>
+    {% assign by_member_type = site.team | group_by: "member_type" | sort: "name" %}
+    {% for member in by_member_type[0].items %}
+      {{ member.output }}
+    {% endfor %}
+    <h3>Past Members</h3>
+    {% for member in by_member_type[1].items %}
+      {{ member.output }}
+    {% endfor %}
+    <h3>Visitors</h3>
+    {% assign by_years = by_member_type[2].items | group_by: "year" | sort: "name" | reverse %}
+    {% for year in by_years %}
+        <h4>{{ year.name }}</h4>
+        {% for member in year.items %}
+            {{ member.output }}
+        {% endfor %}
+    {% endfor %}
+</section>

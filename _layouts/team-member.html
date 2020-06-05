@@ -1,15 +1,17 @@
-<div class="row team-member">
-    <div class="small-2 columns">
-        <img src="{{ page.picture }}" alt="{{ page.name }}" class="picture">
+<div class="row mb-3">
+    <div class="col-2">
+        <img src="{{ page.picture }}" alt="{{ page.name }}" class="w-100 rounded-lg">
     </div>
-    <div class="small-10 columns">
-        <h3>
+    <div class="col-10">
+        <h5>
             {{ page.name }}
-            <small>{{ page.job_title }}</small>
-        </h3>
-        <p class="email">
+            <small class="text-muted">{{ page.job_title }}</small>
+        </h5>
+        <p>
             <a href="mailto:{{ page.email }}">{{ page.email }}</a>
         </p>
-        {{ content }}
+        <div class="team-content">
+            {{ content }}
+        </div>
     </div>
 </div>

@@ -1,39 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="/vendor/foundation/css/normalize.css">
-        <link rel="stylesheet" href="/vendor/foundation/css/foundation.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.css">
         <link rel="stylesheet" href="/styles/main.css">
         <title>QuantGen Group - Michigan State University</title>
     </head>
     <body>
-        <header class="row">
-            <div id="title" class="medium-7 columns">
-                <h1>QuantGen Group</h1>
-            </div>
-            <div id="msu-logo" class="medium-5 columns">
-                <img src="/images/michigan-state-university.png" alt="Michigan State University">
-            </div>
-        </header>
-        <nav data-magellan-expedition="fixed">
-            <ul class="sub-nav">
-                <li data-magellan-arrival="about"><a href="#about">About</a></li>
-                <li data-magellan-arrival="projects"><a href="#projects">Projects</a></li>
-                <li data-magellan-arrival="software"><a href="#software">Software</a></li>
-                <li data-magellan-arrival="activities"><a href="#activities">Activities</a></li>
-                <li data-magellan-arrival="people"><a href="#people">People</a></li>
-            </ul>
-        </nav>
-        <section class="row">
+        <div class="container">
+            <h1 class="mt-3">
+                <img class="img-fluid" src="/images/quantgen-michigan-state-university-banner.png" alt="QuantGen Group at Michigan State University">
+            </h1>
+            <nav class="nav justify-content-center">
+                <a class="nav-link" href="#about">About</a>
+                <a class="nav-link" href="#projects">Projects</a>
+                <a class="nav-link" href="#software">Software</a>
+                <a class="nav-link" href="#activities">Activities</a>
+                <a class="nav-link" href="#people">People</a>
+            </nav>
             {{ content }}
-        </section>
-        <script src="/vendor/jquery/jquery.js"></script>
-        <script src="/vendor/foundation/js/foundation.js"></script>
-        <script src="/vendor/foundation/js/foundation.magellan.js"></script>
-        <script>
-            $(document).foundation();
-        </script>
+        </div>
     </body>
 </html>

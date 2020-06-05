@@ -1,58 +1,12 @@
-body {
-    text-align: justify;
+a:link,
+a:visited {
+    color: #26835f;
 }
 
-@media only screen {
-
-    #title {
-        text-align: center;
-    }
-
-    #msu-logo {
-        text-align: center;
-    }
-
+a:hover {
+    color: #1b463c;
 }
 
-@media only screen and (min-width: 40.063em) {
-
-    #title {
-        text-align: right;
-    }
-
-    #msu-logo {
-        text-align: left;
-    }
-
-    #msu-logo img {
-        margin-top: 15px;
-    }
-
-}
-
-.sub-nav {
-    display: table;
-    margin: 0 auto;
-}
-
-.sub-nav li {
-    display: table-cell;
-}
-
-.team-member {
-    margin-bottom: 15px !important;
-}
-
-.team-member .picture {
-    margin-top: 6px;
-    border-radius: 10px;
-}
-
-.team-member .email {
-    margin-top: -10px;
-    margin-bottom: 0;
-}
-
-.team-member ul {
-    margin-bottom: 0;
+.team-content ul {
+    padding-left: 1rem;
 }
