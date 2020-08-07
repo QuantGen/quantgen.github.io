@@ -2,7 +2,7 @@
 
 **BGData**. A suite of R packages to enable analysis of extremely large genomic data sets (potentially millions of individuals and millions of molecular markers). <a href="https://www.g3journal.org/content/9/5/1377" class="badge badge-light">Article</a> <a href="https://cran.r-project.org/package=BGData" class="badge badge-light">CRAN</a> <a href="https://github.com/quantgen/BGData" class="badge badge-light">Source Code</a>
 
-**pedigreemm**. An R package for analysis of complex traits and diseases using generalided linear mixed models using likelihood methods. <a href="https://pubmed.ncbi.nlm.nih.gov/19820058/" class="badge badge-light">Article</a> <a href="https://cran.r-project.org/web/packages/pedigreemm/pedigreemm.pdf" class="badge badge-light">Documentation</a> <a href="https://cran.r-project.org/package=pedigreemm" class="badge badge-light">CRAN</a>
+**pedigreemm**. An R package for analysis of complex traits and diseases using generalized linear mixed models using likelihood methods. <a href="https://pubmed.ncbi.nlm.nih.gov/19820058/" class="badge badge-light">Article</a> <a href="https://cran.r-project.org/web/packages/pedigreemm/pedigreemm.pdf" class="badge badge-light">Documentation</a> <a href="https://cran.r-project.org/package=pedigreemm" class="badge badge-light">CRAN</a>
 
 **pedigreeR**. R functions related to pedigrees. <a href="https://github.com/Rpedigree/pedigreeR" class="badge badge-light">Source Code</a>
 
