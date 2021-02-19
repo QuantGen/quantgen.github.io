@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Marco López-Cruz
-job_title: PhD Student
+job_title: Postdoc
 picture: /images/team/marco-lópez-cruz.jpg
 email: malctony@hotmail.com
 ---
