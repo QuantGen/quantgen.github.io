@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Gabriel Rovere
 job_title: Postdoc
 picture: /images/team/gabriel-rovere.jpg
