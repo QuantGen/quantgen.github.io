@@ -8,5 +8,5 @@ email: malctony@hotmail.com
 ---
 
 - Areas of Interest: Biostatistics, Statistical Genetics, Plant Breeding
-- - Links: [Google Scholar](https://scholar.google.com/citations?user=RUyrjMAAAAAJ&hl=es), [GitHub](https://github.com/MarcooLopez)
+- Links: [Google Scholar](https://scholar.google.com/citations?user=RUyrjMAAAAAJ&hl=es), [GitHub](https://github.com/MarcooLopez)
 - Software: [META-R](https://www.sciencedirect.com/science/article/pii/S2214514120300684), [SFSI](https://github.com/MarcooLopez/SFSI)
