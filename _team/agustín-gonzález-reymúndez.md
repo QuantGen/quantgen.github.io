@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Agustín González Reymúndez
 job_title: Postdoc
 picture: /images/team/agustín-gonzález-reymúndez.jpg
