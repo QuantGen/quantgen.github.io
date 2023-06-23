@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Marco López-Cruz
-job_title: Postdoc
+job_title: Postdoctoral Research Associate
 picture: /images/team/marco-lópez-cruz.jpg
 email: malctony@hotmail.com
 ---
