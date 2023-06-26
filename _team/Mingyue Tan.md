@@ -1,7 +1,7 @@
 ---
 layout: team-member
 member_type: current
-name: MINGYUE TAN
+name: Mingyue Tan 
 title: M.S.
 picture: /images/team/Mingyue Tan.jpg
 email: tanmingy@msu.edu
