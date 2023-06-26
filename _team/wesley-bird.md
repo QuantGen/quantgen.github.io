@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Wesley Bird
 job_title: Undergraduate Student
 picture: /images/team/wesley-bird.jpg
