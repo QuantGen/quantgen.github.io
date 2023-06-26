@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Xuemeng Wang
 job_title: Master Student
 picture: /images/team/xuemeng-wang.jpg
