@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Alexander Grueneberg
 job_title: Programmer
 picture: /images/team/alexander-grueneberg.jpg
