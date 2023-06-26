@@ -6,5 +6,5 @@ title: M.S.
 picture: IMAGE_PATH
 email: tanmingy@msu.edu
 year: YEAR (if member_type is one of past or visitor)
-Areas of Interest: the protein analysis, especially apply the statistical methods into them.  
+Areas of Interest: protein analysis, especially applying statistical methods to them.  
 ---
