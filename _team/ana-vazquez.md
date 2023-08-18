@@ -2,7 +2,7 @@
 layout: team-member
 member_type: current
 name: Ana I. Vazquez
-job_title: Assistant Professor
+job_title: Associate Professor
 picture: /images/team/ana-vazquez.jpg
 email: avazquez@msu.edu
 ---
