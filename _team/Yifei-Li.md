@@ -7,5 +7,4 @@ picture: images/team/Li Yifei.jpg
 email: liyifei8@msu.edu 
 year: YEAR (if member_type is one of past or visitor)
 ---
-
-Areas of Interest: Statistical Genetics 
+- Areas of Interest: Statistical Genetics 
