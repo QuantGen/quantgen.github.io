@@ -1,7 +1,7 @@
 ---
 layout: team-member
 member_type: current
-name: ELIZABETH MCMAHON
+name: Elizabeth McMahon
 title: PhD Student
 picture: /images/team/Elizabeth McMahon.jpg
 email: mcmah166@msu.edu
