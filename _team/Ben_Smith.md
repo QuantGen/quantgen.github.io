@@ -3,7 +3,7 @@ layout: team-member
 member_type: current
 name: Ben Smith
 title: Post-Master's
-picture: images/team/Ben_Smith.jpg
+picture: images/team/Ben_Smith.png
 email: smit2276@msu.edu
 software: R Python 
 ---
