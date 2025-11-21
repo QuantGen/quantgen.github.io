@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Anirban Samaddar
 job_title: PhD Student
 picture: /images/team/anirban-samaddar.jpg
