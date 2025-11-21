@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Ben Drabing
 title: Master Student
 picture: images/team/Ben Drabing.jpg
