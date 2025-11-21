@@ -20,12 +20,6 @@ layout: default
     {{ software | markdownify }}
 </section>
 
-<section id="activities">
-    <h2>Activities</h2>
-    {% capture activities %}{% include activities.md %}{% endcapture %}
-    {{ activities | markdownify }}
-</section>
-
 <section id="people">
     <h2>People</h2>
     {% assign by_member_type = site.team | group_by: "member_type" | sort: "name" %}
