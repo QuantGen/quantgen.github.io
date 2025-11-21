@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Mingyue Tan 
 title: M.S.
 picture: /images/team/Mingyue Tan.jpg
