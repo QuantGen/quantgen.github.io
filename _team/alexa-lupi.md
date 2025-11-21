@@ -1,6 +1,6 @@
 ---
 layout: team-member
-member_type: current
+member_type: past
 name: Alexa Lupi
 job_title: PhD Student
 picture: /images/team/alexa-lupi.jpg
