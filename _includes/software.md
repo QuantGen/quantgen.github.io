@@ -7,3 +7,8 @@
 **pedigreeR**. R functions related to pedigrees. <a href="https://github.com/Rpedigree/pedigreeR" class="badge badge-light">Source Code</a>
 
 **MTM**. Implements a Bayesian Multi-Trait Gaussian models with user defined-(co)variance structures. <a href="https://github.com/QuantGen/MTM/wiki" class="badge badge-light">Documentation</a> <a href="https://github.com/QuantGen/MTM" class="badge badge-light">Source Code</a>
+
+**GPTL**. Improving Polygenic Score Prediction for Underrepresented Groups Through Transfer Learning.
+<a href="https://www.medrxiv.org/content/10.1101/2025.10.08.25337572v1" class="badge badge-light">Pre-print article</a>
+<a href="https://github.com/QuantGen/GPTL" class="badge badge-light">Source Code</a>
+
