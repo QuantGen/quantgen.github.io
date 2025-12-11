@@ -1,9 +1,9 @@
 ---
 layout: team-member
-member_type: past
+member_type: current
 name: Fernando Aguate
 job_title: Postdoc
-picture: /images/team/fernando-aguate.png
+picture: /images/team/fernando-aguate.jpeg
 email: fmaguate@gmail.com
 ---
 
