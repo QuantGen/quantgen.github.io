@@ -6,3 +6,4 @@ title: PhD Student
 picture: images/team/Hanyu_Yang.jpg
 email: yanghany@msu.edu
 ---
+- Areas of interest: Statistical Genetics, GWAS, Quantile Regression
