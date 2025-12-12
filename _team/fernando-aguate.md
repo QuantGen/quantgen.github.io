@@ -4,7 +4,7 @@ member_type: current
 name: Fernando Aguate
 job_title: Postdoc
 picture: /images/team/fernando-aguate.jpeg
-email: fmaguate@gmail.com
+email: matiasfe@msu.edu
 ---
 
 - Areas of Interest: Biostatistics, Statistical Genetics, Plant Breeding, Software Development
