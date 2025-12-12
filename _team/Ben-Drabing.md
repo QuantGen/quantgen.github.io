@@ -3,7 +3,7 @@ layout: team-member
 member_type: past
 name: Ben Drabing
 title: Master Student
-picture: images/team/Ben Drabing.jpg
+picture: images/team/Ben_Drabing.jpg
 email: drabingb@msu.edu
 software: R SAS IPA
 ---
